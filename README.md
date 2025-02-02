@@ -111,5 +111,5 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para m
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/brenoaugustoalves).
+Feito com ❤️ por [Breno Augusto](https://github.com/brenoaugustoalves).
 
